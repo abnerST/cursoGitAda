@@ -21,3 +21,4 @@
 
 # Comandos que trabalham com branches
 * git checkout < nome da branch > -> Altera o ponteiro da branch atual para a branch informada
+* git merge < nome da branch > -> Leva as alterações da branch informada para a branch no ponteiro
