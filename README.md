@@ -18,4 +18,6 @@
 * git push -> Leva todas as modificações (Commitadas) para o repositório remoto.
 * git pull -> Faz o download de todas as alterações feitas no repositório remoto.
 * git fetch -> Faz o download das mudanças sem editar o arquivo no repositório local
-  
+
+# Comandos que trabalham com branches
+* git checkout < nome da branch > -> Altera o ponteiro da branch atual para a branch informada
