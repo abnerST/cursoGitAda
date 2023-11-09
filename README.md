@@ -17,3 +17,5 @@
 * git branch -M < nome da branch> -> renomeia a branch atual para a definida
 * git push -> Leva todas as modificações (Commitadas) para o repositório remoto.
 * git pull -> Faz o download de todas as alterações feitas no repositório remoto.
+* git fetch -> Faz o download das mudanças sem editar o arquivo no repositório local
+  
